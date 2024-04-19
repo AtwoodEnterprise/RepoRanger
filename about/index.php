@@ -1,9 +1,9 @@
-<?php // This is an about page for RepoRanger.
-
+<?php // This is an about page for RepoRanger with a navbar.
 ?>
 <html>
-<head><title>About RepoRanger</title></head>
+<head><title>About RepoRanger </title></head>
 <body>
+<nav class="navbar"><a href="../index.php">Home</a><br><a href="../login/index.php">Login</a><br><a href="index.php">About</a></nav>
 <h2>About RepoRanger </h2>
 <p>RepoRanger is being created to help manage and organize your repositories efficiently. This tool is designed to provide a user-friendly way to navigate and optimize your code processes with minimal hassle.</p>
 </body>

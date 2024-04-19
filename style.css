@@ -3,3 +3,14 @@ body {
   background-color: #efefff;
   color: #333;
 }
+
+.navbar {
+  background-color: #f1f1f1;
+  padding: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #555;
+}

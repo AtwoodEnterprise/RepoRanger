@@ -9,8 +9,9 @@ body {
   padding: 10px;
   margin-bottom: 20px;
   text-align: center;
+  border: 1px solid #000;
 }
 
-h1, h2 {
+hu2 {
   color: #555;
 }

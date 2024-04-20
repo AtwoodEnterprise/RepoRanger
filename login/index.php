@@ -4,7 +4,7 @@
 <html>
 <head><title>Login Page</title><link rel="stylesheet" type="text/css" href="../style.css"></head>
 <body>
-<nav class="navbar"><a href="../index.php">Home</a><br><a href="index.php">Login</a><br><a href="../about/index.php">About</a></nav>
+<nav class="navbar"><a href="../index.php">Home</a> | <a href="login/index.php">Login </a> | <a href="../about/index.php">About</a></nav>
 <h2>Login Form</h2>
 <form action="login_process.php" method="post">
 <label>Username:</label>

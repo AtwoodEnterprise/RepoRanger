@@ -12,6 +12,17 @@ body {
   border: 1px solid #000;
 }
 
-hu2 {
-  color: #555;
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  margin: auto;
+  width: fit-content;
+}
+
+input[type="text"], input[type="password"], input[type="submit"] {
+  padding: 8px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }

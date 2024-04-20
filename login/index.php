@@ -1,8 +1,8 @@
-<?php // This is a login form index page within the login folder with navbar with line breaks.
+<?php // This is a login form index page with navbar with line breaks.
 
 ?>
 <html>
-<head><title>Login Page</title></head>
+<head><title>Login Page</title><link rel="stylesheet" type="text/css" href="../style.css"></head>
 <body>
 <nav class="navbar"><a href="../index.php">Home</a><br><a href="index.php">Login</a><br><a href="../about/index.php">About</a></nav>
 <h2>Login Form</h2>
